@@ -87,4 +87,4 @@ Este sistema representa un avance crítico en la modernización del proceso adua
 
 ---
 
-© 2025 - Proyecto Aduanas | Felipe Ahumada Silva - DUOC UC
+© 2025 - Proyecto Aduanas | © 2025 – Felipe Ahumada, Francisca Barrera, Emmanuel Opazo, Patricio Zapata - DUOC UC
