@@ -1,7 +1,7 @@
 # 📘 Documento de Arquitectura de Software (DAS)
 ## Proyecto: Sistema de Declaración Aduanera - Paso Internacional Los Libertadores
 
-### 🗂️ Versión 1.0 | Última revisión: 29/05/2025
+### 🗂️ Versión 1.0.0 | Última revisión: 29/05/2025
 
 ---
 

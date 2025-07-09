@@ -1,6 +1,6 @@
 # 🛂 Sistema de Declaraciones Aduaneras – Paso Los Libertadores
 
-## 📘 Documentación de Arquitectura y Prototipado (Versión 5)
+## 📘 Documentación de Arquitectura y Prototipado
 
 Este repositorio contiene el Documento de Arquitectura del Sistema (DAS V5) y la tercera entrega de la presentación del caso "Aduanas", orientado a digitalizar el control de salida terrestre entre Chile y Argentina.
 
